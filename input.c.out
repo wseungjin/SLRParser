@@ -1,0 +1,381 @@
+,Line Number,Token Type,Token Input
+0,1,Type,int
+1,1,Whitespace, 
+2,1,ID,foo
+3,1,indication symbol,(
+4,1,Type,float
+5,1,Whitespace, 
+6,1,ID,x
+7,1,Whitespace, 
+8,1,separating symbol,","
+9,1,Whitespace, 
+10,1,Type,float
+11,1,Whitespace, 
+12,1,ID,y
+13,1,indication symbol,)
+14,1,scope symbol,{
+15,1,Whitespace,"
+"
+16,2,Whitespace, 
+17,2,Whitespace, 
+18,2,Whitespace, 
+19,2,Whitespace, 
+20,2,Whitespace,"
+"
+21,3,Whitespace, 
+22,3,Whitespace, 
+23,3,Whitespace, 
+24,3,Whitespace, 
+25,3,special statements,if
+26,3,indication symbol,(
+27,3,ID,x
+28,3,Comparison Operator,>
+29,3,ID,y
+30,3,indication symbol,)
+31,3,scope symbol,{
+32,3,Whitespace,"
+"
+33,4,Whitespace, 
+34,4,Whitespace, 
+35,4,Whitespace, 
+36,4,Whitespace, 
+37,4,Whitespace, 
+38,4,Whitespace, 
+39,4,Whitespace, 
+40,4,Whitespace, 
+41,4,special statements,if
+42,4,indication symbol,(
+43,4,ID,x
+44,4,Whitespace, 
+45,4,Comparison Operator,<
+46,4,ID,y
+47,4,indication symbol,)
+48,4,scope symbol,{
+49,4,Whitespace,"
+"
+50,5,Whitespace, 
+51,5,Whitespace, 
+52,5,Whitespace, 
+53,5,Whitespace, 
+54,5,Whitespace, 
+55,5,Whitespace, 
+56,5,Whitespace, 
+57,5,Whitespace, 
+58,5,Whitespace, 
+59,5,Whitespace, 
+60,5,Whitespace, 
+61,5,Whitespace, 
+62,5,special statements,while
+63,5,indication symbol,(
+64,5,ID,x
+65,5,Comparison Operator,<
+66,5,ID,y
+67,5,indication symbol,)
+68,5,scope symbol,{
+69,5,Whitespace,"
+"
+70,6,Whitespace, 
+71,6,Whitespace, 
+72,6,Whitespace, 
+73,6,Whitespace, 
+74,6,Whitespace, 
+75,6,Whitespace, 
+76,6,Whitespace, 
+77,6,Whitespace, 
+78,6,Whitespace, 
+79,6,Whitespace, 
+80,6,Whitespace, 
+81,6,Whitespace, 
+82,6,Whitespace, 
+83,6,Whitespace, 
+84,6,Whitespace, 
+85,6,Whitespace, 
+86,6,ID,x
+87,6,Whitespace, 
+88,6,ASSIGN,=
+89,6,Whitespace, 
+90,6,ID,x
+91,6,Operator,+
+92,6,Integer,1
+93,6,terminating symbol,;
+94,6,Whitespace,"
+"
+95,7,Whitespace, 
+96,7,Whitespace, 
+97,7,Whitespace, 
+98,7,Whitespace, 
+99,7,Whitespace, 
+100,7,Whitespace, 
+101,7,Whitespace, 
+102,7,Whitespace, 
+103,7,Whitespace, 
+104,7,Whitespace, 
+105,7,Whitespace, 
+106,7,Whitespace, 
+107,7,scope symbol,}
+108,7,Whitespace,"
+"
+109,8,Whitespace, 
+110,8,Whitespace, 
+111,8,Whitespace, 
+112,8,Whitespace, 
+113,8,Whitespace, 
+114,8,Whitespace, 
+115,8,Whitespace, 
+116,8,Whitespace, 
+117,8,Whitespace, 
+118,8,Whitespace, 
+119,8,Whitespace, 
+120,8,Whitespace, 
+121,8,special statements,for
+122,8,indication symbol,(
+123,8,ID,a
+124,8,ASSIGN,=
+125,8,Integer,0
+126,8,terminating symbol,;
+127,8,Whitespace, 
+128,8,ID,a
+129,8,Comparison Operator,>
+130,8,Integer,5
+131,8,terminating symbol,;
+132,8,Whitespace, 
+133,8,ID,a
+134,8,ASSIGN,=
+135,8,ID,a
+136,8,Operator,+
+137,8,Integer,1
+138,8,indication symbol,)
+139,8,scope symbol,{
+140,8,Whitespace,"
+"
+141,9,Whitespace, 
+142,9,Whitespace, 
+143,9,Whitespace, 
+144,9,Whitespace, 
+145,9,Whitespace, 
+146,9,Whitespace, 
+147,9,Whitespace, 
+148,9,Whitespace, 
+149,9,Whitespace, 
+150,9,Whitespace, 
+151,9,Whitespace, 
+152,9,Whitespace, 
+153,9,Whitespace, 
+154,9,Whitespace, 
+155,9,Whitespace, 
+156,9,Whitespace, 
+157,9,ID,a
+158,9,Whitespace, 
+159,9,ASSIGN,=
+160,9,Whitespace, 
+161,9,ID,a
+162,9,Operator,+
+163,9,Integer,1
+164,9,terminating symbol,;
+165,9,Whitespace,"
+"
+166,10,Whitespace, 
+167,10,Whitespace, 
+168,10,Whitespace, 
+169,10,Whitespace, 
+170,10,Whitespace, 
+171,10,Whitespace, 
+172,10,Whitespace, 
+173,10,Whitespace, 
+174,10,Whitespace, 
+175,10,Whitespace, 
+176,10,Whitespace, 
+177,10,Whitespace, 
+178,10,scope symbol,}
+179,10,Whitespace,"
+"
+180,11,Whitespace, 
+181,11,Whitespace, 
+182,11,Whitespace, 
+183,11,Whitespace, 
+184,11,Whitespace, 
+185,11,Whitespace, 
+186,11,Whitespace, 
+187,11,Whitespace, 
+188,11,scope symbol,}
+189,11,Whitespace,"
+"
+190,12,Whitespace, 
+191,12,Whitespace, 
+192,12,Whitespace, 
+193,12,Whitespace, 
+194,12,scope symbol,}
+195,12,special statements,else
+196,12,scope symbol,{
+197,12,Whitespace,"
+"
+198,13,Whitespace, 
+199,13,Whitespace, 
+200,13,Whitespace, 
+201,13,Whitespace, 
+202,13,Whitespace, 
+203,13,Whitespace, 
+204,13,Whitespace, 
+205,13,Whitespace, 
+206,13,ID,a
+207,13,Whitespace, 
+208,13,ASSIGN,=
+209,13,Whitespace, 
+210,13,ID,a
+211,13,Operator,+
+212,13,ID,b
+213,13,terminating symbol,;
+214,13,Whitespace,"
+"
+215,14,Whitespace, 
+216,14,Whitespace, 
+217,14,Whitespace, 
+218,14,Whitespace, 
+219,14,scope symbol,}
+220,14,Whitespace,"
+"
+221,15,Whitespace, 
+222,15,Whitespace, 
+223,15,Whitespace, 
+224,15,Whitespace, 
+225,15,special statements,return
+226,15,Whitespace, 
+227,15,Integer,0
+228,15,terminating symbol,;
+229,15,Whitespace,"
+"
+230,16,scope symbol,}
+231,16,Whitespace,"
+"
+232,17,Whitespace,"
+"
+233,18,Type,int
+234,18,Whitespace, 
+235,18,ID,main
+236,18,indication symbol,(
+237,18,Type,int
+238,18,Whitespace, 
+239,18,ID,a
+240,18,Whitespace, 
+241,18,separating symbol,","
+242,18,Whitespace, 
+243,18,Type,int
+244,18,Whitespace, 
+245,18,ID,b
+246,18,indication symbol,)
+247,18,scope symbol,{
+248,18,Whitespace,"
+"
+249,19,Whitespace, 
+250,19,Whitespace, 
+251,19,Whitespace, 
+252,19,Whitespace, 
+253,19,Type,float
+254,19,Whitespace, 
+255,19,ID,s
+256,19,Whitespace, 
+257,19,ASSIGN,=
+258,19,Whitespace, 
+259,19,FLOAT,3.1
+260,19,terminating symbol,;
+261,19,Whitespace,"
+"
+262,20,Whitespace, 
+263,20,Whitespace, 
+264,20,Whitespace, 
+265,20,Whitespace, 
+266,20,Type,char
+267,20,Whitespace, 
+268,20,ID,c
+269,20,Whitespace, 
+270,20,ASSIGN,=
+271,20,Whitespace, 
+272,20,LiteralString,"""if else"""
+273,20,terminating symbol,;
+274,20,Whitespace,"
+"
+275,21,Whitespace, 
+276,21,Whitespace, 
+277,21,Whitespace, 
+278,21,Whitespace, 
+279,21,special statements,while
+280,21,indication symbol,(
+281,21,ID,a
+282,21,Comparison Operator,<
+283,21,ID,b
+284,21,indication symbol,)
+285,21,scope symbol,{
+286,21,Whitespace,"
+"
+287,22,Whitespace, 
+288,22,Whitespace, 
+289,22,Whitespace, 
+290,22,Whitespace, 
+291,22,Whitespace, 
+292,22,Whitespace, 
+293,22,Whitespace, 
+294,22,Whitespace, 
+295,22,ID,a
+296,22,Whitespace, 
+297,22,ASSIGN,=
+298,22,Whitespace, 
+299,22,ID,a
+300,22,Operator,+
+301,22,Integer,1
+302,22,terminating symbol,;
+303,22,Whitespace,"
+"
+304,23,Whitespace, 
+305,23,Whitespace, 
+306,23,Whitespace, 
+307,23,Whitespace, 
+308,23,Whitespace, 
+309,23,Whitespace, 
+310,23,Whitespace, 
+311,23,Whitespace, 
+312,23,ID,b
+313,23,Whitespace, 
+314,23,ASSIGN,=
+315,23,Whitespace, 
+316,23,ID,b
+317,23,Whitespace, 
+318,23,Operator,*
+319,23,Whitespace, 
+320,23,ID,s
+321,23,terminating symbol,;
+322,23,Whitespace,"
+"
+323,24,Whitespace, 
+324,24,Whitespace, 
+325,24,Whitespace, 
+326,24,Whitespace, 
+327,24,scope symbol,}
+328,24,Whitespace,"
+"
+329,25,Whitespace,"
+"
+330,26,Whitespace, 
+331,26,Whitespace, 
+332,26,Whitespace, 
+333,26,Whitespace, 
+334,26,Type,int
+335,26,Whitespace, 
+336,26,ID,x
+337,26,Whitespace, 
+338,26,ASSIGN,=
+339,26,Whitespace, 
+340,26,Integer,3
+341,26,terminating symbol,;
+342,26,Whitespace,"
+"
+343,27,Whitespace, 
+344,27,Whitespace, 
+345,27,Whitespace, 
+346,27,Whitespace, 
+347,27,special statements,return
+348,27,Whitespace, 
+349,27,ID,x
+350,27,terminating symbol,;
+351,27,Whitespace,"
+"
+352,28,scope symbol,}
